@@ -1,3 +1,3 @@
-# bethehero backend
+# Bethehero backend
 
 April 2020.
